@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/sagar-agrawal-73377016a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-agrawal-73377016a" height="30" width="40" /></a>
 <a href="https://kaggle.com/nick0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nick0715" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nick0715_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nick0715_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nickk0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nickk0715" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Nick07_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nickk0715" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nickk0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nickk0715" height="30" width="40" /></a>
 </p>
 
