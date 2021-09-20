@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Agrawal</h1>
-<h3 align="center">An aspiring Data Scientist | Data Engineer</h3>
+<h3 align="center">An aspiring Backend Software Developer | Data Engineer</h3>
 
-- 🔭 I’m currently working on a **Building a Portfolio Website**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **SQL**
 
