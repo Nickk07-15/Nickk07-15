@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, SQL, Azure**
 
-- 📫 How to reach me **nickk0715@gmail.com**
+- 📫 How to reach me **sagar091597@gmail.com**
 
 - ⚡ Fun fact **I think I am too Serious ...**
 
