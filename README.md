@@ -1,24 +1,79 @@
-<h1 align="center">Hi 👋, I'm Sagar Agrawal</h1>
-<h3 align="center">Software Engineer</h3>
+# 👋 Hey, I'm Sagar Agrawal
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+🎯 **Backend Engineer — Data Engineering**  
+📍 Based in India | 🌐 Passionate about building reliable, scalable, and high-impact data systems
 
-- 🌱 I’m currently learning **DSA, CS and System Design**
+---
 
-- 💬 Ask me about **Python, SQL, Azure, AWS**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **sagar091597@gmail.com**
+I'm a data engineer who thrives at the intersection of backend engineering, cloud architecture, and real-time data streaming. With hands-on experience in both the **insurance** and **AI-driven video telematics** industries, I bring production-grade expertise in **Python**, **SQL**, **AWS**, and **Docker** to solve complex business problems.
 
-- ⚡ Fun fact **I think I am too Serious ...**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar-agrawal-73377016a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-agrawal-73377016a" height="30" width="40" /></a>
-<a href="https://kaggle.com/nick0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nick0715" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Nick07_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nick0715_" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nickk0715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nickk0715" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nickk0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nickk0715" height="30" width="40" /></a>
+## 🚀 What I'm Working On
+
+- 🔁 **Real-time streaming pipelines** using AWS Kinesis, Flask APIs, and Protobuf to power customer insights
+- 🛠️ Automating and scaling infrastructure with **Docker**, **CI/CD**, and **Jenkins**
+- 🌍 Designing data ingestion systems using **OSM**, **OSRM**, and clustering logic to enhance mapping accuracy
+- 📊 Visualizing large datasets through **Tableau** and **Kepler** for internal stakeholders
+- ☁️ Building robust, fault-tolerant microservices on **AWS Lambda**, **SQS**, and **PostgreSQL**
+
+---
+
+## 🧳 Previous Experience
+
+- 🧠 Contributed to Microsoft Azure projects at Infosys, automating deployments and ensuring security compliance using **Terraform**, **Azure DevOps**, and **PowerShell**
+- 🔍 Integrated **ONNX Runtime** with Python Flask APIs for improved ML model performance
+- ⚙️ Developed full-stack services using **.NET Core**, **MSSQL**, and **ASP.NET**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` • `SQL` • `Bash` • `Terraform` • `PowerShell` • `TypeScript` • `C#`
+
+**Data & Infra**  
+`PostgreSQL` • `MongoDB` • `MSSQL` • `AWS S3` • `Kinesis` • `SQS` • `Airflow`
+
+**DevOps & Tools**  
+`AWS` • `Docker` • `Jenkins` • `GitHub Actions` • `Azure DevOps` • `Datadog` • `Sentry`
+
+**Frameworks & APIs**  
+`Flask` • `Protobuf` • `Nginx` • `.NET Core` • `OSM/OSRM APIs`
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Delivered 98% high-quality data pipelines based on real-time location data
+- 🔄 Reduced manual intervention by 25% through automation of core ETL workflows
+- 🧰 Boosted engineering productivity by 15% through infrastructure automation
+- 🏅 Q3 2023 Performance Award @ Netradyne  
+- ♟️ Winner of Netradyne Chess Tournament — strategy in code and on board
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nickk07-15&show_icons=true&theme=radical" alt="Sagar's GitHub stats" />
+  <br />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-agrawal-73377016a)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/nick0715)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/nickk0715/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Nick07_15)
+
+📫 **Email:** sagar091597@gmail.com  
+🧠 **Fun fact:** I overthink things and call it _"strategic analysis"_ 🤓
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
